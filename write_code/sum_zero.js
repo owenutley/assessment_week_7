@@ -19,6 +19,7 @@ function addToZero(arr){
 
 // NOTE that if the array contains two or more zeros it will return as true
 // If you don't want this to happen comment out the last if statement in the function
+// The time complexity should be linear
 
 array1 = [3, -5, 0, 1, 5, 6, 7]
 console.log('array 1')
